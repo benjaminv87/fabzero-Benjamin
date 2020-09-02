@@ -17,7 +17,7 @@ images:
     link: https://via.placeholder.com/200/6ab0de/fff.png
     image: https://via.placeholder.com/200/6ab0de/fff.png
 ---
-
+![foto benjamin](../../../../assets/foto.jpg)
 # Album Images
 
 {% include album.liquid data=page.images %}
