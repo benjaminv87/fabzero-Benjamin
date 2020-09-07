@@ -9,7 +9,11 @@ Template voor FabZero gebaseerd [jekyll-rtd-theme](https://github.com/rundocs/je
 
 ## Who am I?
 
-???
+Mijn naam is Benjamin,
+
+In mijn vrije tijd maak ik dingen in mijn atelier. Ik heb de mogelijkheid en de kennis om dingen in hout en metaal te maken maar daar stopt mijn kennis. Daarom heb ik mij ingeschreven voor deze cursus om de nieuwere technologieën onder de knie te krijgen.
+
+![foto benjamin]({{site.baseurl}}/assets/foto1.jpg)
 
 ## The license
 The theme is available as open source under the terms of the MIT License. The content is Creatieve Commons, non-commercial.
