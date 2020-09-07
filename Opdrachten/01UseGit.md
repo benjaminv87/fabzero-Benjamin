@@ -5,6 +5,9 @@ Gezien we de lessen en opdrachten moeten documenteren is er gekozen om github en
 
 ## Git installeren en gebruiken
 
+![Logo Github]({{site.baseurl}}/assets/foto's/Githublogo.png)
+
+
 ### Wat is github?
 GitHub bestaat uit twee woorden, namelijk Git + Hub. Laten we beginnen met Git. Git is een open source versiebeheersysteem. De website GitHub is gemaakt op basis van het versiebeheersysteem Git. Met GitHub heb je alle mogelijkheden van Git + extra features
 
