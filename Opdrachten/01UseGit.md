@@ -1,4 +1,4 @@
-# Les 1 (02/09/2020)
+# Intro & Gitlab(02/09/2020)
 
 Gezien we de lessen en opdrachten moeten documenteren is er gekozen om github en deze template te gebruiken.
 
