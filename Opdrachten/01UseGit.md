@@ -5,7 +5,7 @@ Gezien we de lessen en opdrachten moeten documenteren is er gekozen om github en
 
 ## Git installeren en gebruiken
 
-![Logo Github]({{site.baseurl}}/assets/foto's/Githublogo.png)
+![Logo Github]({{site.baseurl}}/assets/Foto's/Githublogo.png)
 
 
 ### Wat is github?

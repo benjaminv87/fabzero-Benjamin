@@ -13,7 +13,7 @@ Mijn naam is Benjamin,
 
 In mijn vrije tijd maak ik dingen in mijn atelier. Ik heb de mogelijkheid en de kennis om dingen in hout en metaal te maken maar daar stopt mijn kennis. Daarom heb ik mij ingeschreven voor deze cursus om de nieuwere technologieën onder de knie te krijgen.
 
-![foto benjamin]({{site.baseurl}}/assets/foto's/Benjamin.jfif)
+![foto benjamin]({{site.baseurl}}/assets/Foto's/Benjamin.jfif)
 
 ## The license
 The theme is available as open source under the terms of the MIT License. The content is Creatieve Commons, non-commercial.
